@@ -13,6 +13,14 @@
 mitmweb -p 8888 -s addons.py
 mitmweb -p 8888 -s test.py
 ### 浏览器设置代理
+google浏览器
+使用SwitchyOmega插件设置
+
+代理服务器
+网址协议	代理协议	代理服务器	   代理端口	
+(默认)		http    127.0.0.1    8888
+
+### 登录网页版微信即可
 
 ## 提示
 
